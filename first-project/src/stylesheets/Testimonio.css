@@ -10,8 +10,9 @@
 }
 
 .imagen-testimonio{
-    height: 100%;
-    width: auto;
+    height: 290px;
+    width: 290px;
+    margin-left: 10px;
 }
 
 .contenedor-texto-testimonio{
